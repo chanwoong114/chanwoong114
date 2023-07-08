@@ -4,8 +4,7 @@
   
   <div>
     <a href="https://woooong0114.tistory.com/">
-      <img src="https://img.shields.io/badge/TISTORY
-      -000000?style={스타일}&logo=TISTORY&logoColor={로고 색깔}"/>
+      <img src="https://img.shields.io/badge/TISTORY-000000?style={스타일}&logo=TISTORY&logoColor={로고 색깔}"/>
     </a>
   </div>
 
@@ -41,7 +40,7 @@
 
 ## 📑프로젝트
 
-- [[TMDB API를 활용한 영화 소개 서비스](https://github.com/chanwoong114/TMDB_Project)](https://github.com/chanwoong114/TMDB_Project)
+- [TMDB API를 활용한 영화 소개 서비스](https://github.com/chanwoong114/TMDB_Project)
 
 ---
 
@@ -55,4 +54,4 @@
 
 
 
-![이미지](file://C:\Users\xodnd\Desktop\chanwoong114\잘부탁해.png?msec=1688807486133)
+![이미지](잘부탁해.png)

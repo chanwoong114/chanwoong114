@@ -41,6 +41,7 @@
 ## 📑프로젝트
 
 - [TMDB API를 활용한 영화 소개 서비스](https://github.com/chanwoong114/TMDB_Project)
+- [AI를 통해 음악파일을 악보로 보내주는 웹 서비스](https://github.com/chanwoong114/BTS-AI-Project)
 
 ---
 
@@ -51,7 +52,5 @@
 - 운동 (건강한 몸에 건강한 정신이 깃든다)
 
 - 사람만나는 활동
-
-
 
 ![이미지](잘부탁해.png)

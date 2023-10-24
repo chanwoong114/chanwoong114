@@ -42,6 +42,7 @@
 
 - [TMDB API를 활용한 영화 소개 서비스](https://github.com/chanwoong114/TMDB_Project)
 - [AI를 통해 음악파일을 악보로 보내주는 웹 서비스](https://github.com/chanwoong114/BTS-AI-Project)
+- [공공데이터활용 부산 특화 공모전 - 파인드 마이 가이드](https://github.com/FindMyGuide/BackEnd)
 
 ---
 

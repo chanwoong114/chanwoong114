@@ -40,13 +40,25 @@
 
 ## 📑프로젝트
 
+- [삼성 SDS와 연계한 APIM(API Management) 솔루션 - ITDA](https://github.com/chanwoong114/itda)
+- [블록체인을 활용한 API 통합 및 중개 서비스 - ASAP](https://github.com/chanwoong114/asap)
+- [WEB RTC를 활용한 온라인 놀이방 서비스 - 나랑노랑](https://github.com/chanwoong114/narangnorang)
+- [공공데이터활용 부산 특화 공모전 - 파인드 마이 가이드](https://github.com/FindMyGuide/BackEnd)
 - [TMDB API를 활용한 영화 소개 서비스](https://github.com/chanwoong114/TMDB_Project)
 - [AI를 통해 음악파일을 악보로 보내주는 웹 서비스](https://github.com/chanwoong114/BTS-AI-Project)
-- [공공데이터활용 부산 특화 공모전 - 파인드 마이 가이드](https://github.com/FindMyGuide/BackEnd)
 
 ---
 
 ## 기타 사항
+
+|구분|날짜|내용|기관|
+---
+|수상|2023.12|삼성전자 대표이사상 우수상|삼성전자|
+|수상|2023.11|2023관광데이터 활용 공모전 장려상|한국관광공사|
+|수상|2023.11|SSAFY 9기 자율 프로젝트 결선발표회 3등|삼성전자|
+|수상|2023.10|SSAFY 9기 특화프로젝트 우수상|삼성전자|
+|자격|2023.07|SQL 개발자(SQLD)|한국데이터산업진흥원|
+|자격|2023.06|정보처리기사|한국산업인력공단|
 
 ## 취미
 
